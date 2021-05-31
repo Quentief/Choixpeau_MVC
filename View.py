@@ -51,4 +51,4 @@ def chapeau(nbre_ligne):
 
 def progression(i,nbre_questions):
     progress = i/nbre_questions *100
-    print ("{:.1f} % complété".format(progress))
+    print ("{:.1f} % compltété".format(progress))
